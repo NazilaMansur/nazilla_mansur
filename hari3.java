@@ -10,7 +10,7 @@ public class Day3 {
         System.out.println("Konversi String ke tipe data primitif (integer dan double)");
         System.out.println("String \"" + strInt + "\" dikonversi ke int: " + integer);
 
-        String strDouble = "54.7"; // Ubah ini menjadi angka desimal
+        String strDouble = "54.7"; // ini di ubah menjadi angka desimal
         double decimal = Double.parseDouble(strDouble);
         System.out.println("String \"" + strDouble + "\" dikonversi ke double: " + decimal);
 
