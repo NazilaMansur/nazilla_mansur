@@ -1,0 +1,15 @@
+package days.of.coding;
+
+public class AritmatikaSederhana {
+    public static void main(String[] args) {
+        // mendefenisikan dua angka
+        int angka1 = 5;
+        int angka2 = 3;
+        
+        // kita melakukan penjumlahan
+        int hasilPenjumlahan = angka1 + angka2;
+        
+        // untuk menampilkan hasil penjumlahan
+        System.out.println("Hasil penjumlahan " + angka1 + " dan " + angka2 + " adalah " + hasilPenjumlahan);
+    }
+}
